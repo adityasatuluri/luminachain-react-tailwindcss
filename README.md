@@ -1,6 +1,8 @@
 # LUMINACHAIN
 ### LuminaChain is a blockchain portfolio website created with vite+react
-[![Netlify Status](https://api.netlify.com/api/v1/badges/22025346-940e-4489-a8eb-3391210c9019/deploy-status)](https://app.netlify.com/sites/luminachain/deploys)
+- [![Netlify Status](https://api.netlify.com/api/v1/badges/22025346-940e-4489-a8eb-3391210c9019/deploy-status)](https://app.netlify.com/sites/luminachain/deploys)
+
+- [Visit Deployed site](https://main--luminachain.netlify.app/)
 
 # React + Vite
 
